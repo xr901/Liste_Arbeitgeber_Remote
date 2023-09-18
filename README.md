@@ -1,4 +1,4 @@
-# Liste von Arbeitgeber mit Remote-Jobs
+# Liste von Arbeitgebern mit Remote-Jobs
 Liste mit Deutschen Arbeitgebern (DACH), die zum Großteil Remote-Jobs anbieten ("New Work") nach den folgenden Bedingungen: 
 * **100 % Homeoffice:** Arbeiten im Homeoffice ohne Anwesenheitszwang (z.B. alle x Tage Büro)
 * **Örtliche Ungebundenheit:** die Freiheit, nicht nur die meiste Zeit im Homeoffice zu verbringen, sondern auch an beliebigen Orten zu arbeiten, idealerweise weltweit
